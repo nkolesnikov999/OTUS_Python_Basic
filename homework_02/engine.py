@@ -5,6 +5,6 @@ from dataclasses import dataclass
 
 
 @dataclass()
-class Engine():
+class Engine:
     volume: str
     pistons: str
